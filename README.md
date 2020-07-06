@@ -26,4 +26,4 @@
 - The search input does the searching as you type (See google search as an example)
 - There is animated transition between pages
 
-Happy Coding!
+ _Happy Coding!_
