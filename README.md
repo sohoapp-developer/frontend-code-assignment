@@ -1,4 +1,4 @@
-# Frontend assignment
+# Frontend code assignment
 1. Create a web application that consumes [Github API](https://developer.github.com/v3/) and follow the requirements as listed below.
 2. Host your production ready application ([Heroku](http://heroku.com) preferably but you can choose other platform too)
 3. Push your new repository in your Github account
@@ -25,3 +25,5 @@
 - The results list also asynchronous-ly shows the number of followers and following of each user without going the user page
 - The search input does the searching as you type (See google search as an example)
 - There is animated transition between pages
+
+Happy Coding!
