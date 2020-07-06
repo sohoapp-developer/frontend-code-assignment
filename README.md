@@ -1,6 +1,4 @@
 # Frontend assignment
-
-## Goals
 1. Create a web application that consumes [Github API](https://developer.github.com/v3/) and follow the requirements as listed below.
 2. Host your production ready application ([Heroku](http://heroku.com) preferably but you can choose other platform too)
 3. Push your new repository in your Github account
