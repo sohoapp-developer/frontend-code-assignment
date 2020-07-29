@@ -13,13 +13,12 @@
 - When a list item is clicked, the application is navigated to a new page that display the parsed JSON payload of that user
 - The new page also has to display the list of the user's repositories, followers and following
 - The application is built by [React](https://github.com/facebook/react) and [Redux](https://github.com/reactjs/redux)
-- [Webpack](https://github.com/webpack/webpack) is being used to build the application
-- The application style is built by one of the CSS preprocessors or CSS-in-JS
 - The application has to be responsive and optimised for mobile
 - A documentation on how the application works and how to set up and build the project is provided
  
 ## Bonus points 
 - The pages are server-side rendered and are cached in the server
+- The application style is built by one of the CSS preprocessors or CSS-in-JS
 - All pages' URL is reusable - meaning it can be copied and pasted on different browser and still shows the same result
 - All pages are SEO optimised
 - The results list also asynchronous-ly shows the number of followers and following of each user without going the user page
