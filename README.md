@@ -1,13 +1,13 @@
 # Frontend code assignment
 1. Create a web application that consumes [Github API](https://developer.github.com/v3/) and follow the requirements as listed below.
-2. Host your production ready application ([Heroku](http://heroku.com) preferably but you can choose other platform too)
+2. Host your production ready application (Any platform is okay i.e Heroku, Netlify, AWS etc.)
 3. Push your new repository in your Github account
 4. Send us the links to your Github repository and the deployed application
-5. Completing all bonus points is not mandatory
+5. Completing all bonus points is not compulsory
  
 ## Requirements
 - There is a search bar to let the user search by username (login name)
-- While searching, the application shows an animated loading indicator made by CSS 
+- While searching, the application shows an animated loading indicator
 - After the search is completed, the application shows the list of users along with their avatar and their username on the same page
 - If the results are not complete in one page, the pagination is shown on the screen
 - When a list item is clicked, the application is navigated to a new page that display the parsed JSON payload of that user
@@ -18,6 +18,7 @@
  
 ## Bonus points 
 - The pages are server-side rendered and are cached in the server
+- The animated loading indicator is done in CSS
 - The application style is built by one of the CSS preprocessors or CSS-in-JS
 - All pages' URL is reusable - meaning it can be copied and pasted on different browser and still shows the same result
 - All pages are SEO optimised
