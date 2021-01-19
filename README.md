@@ -17,6 +17,7 @@
 - A documentation on how the application works and how to set up and build the project is provided
  
 ## Bonus points 
+- It uses React hooks and functional components
 - The pages are server-side rendered and are cached in the server
 - The animated loading indicator is done in CSS
 - The application style is built by one of the CSS preprocessors
