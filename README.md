@@ -12,12 +12,11 @@
 - If the results are not complete in one page, the pagination is shown on the screen
 - When a list item is clicked, the application is navigated to a new page that display the parsed JSON payload of that user
 - The new page also has to display the list of the user's repositories, followers and following
-- The application is built by [React](https://github.com/facebook/react)
+- The application is built by [React](https://github.com/facebook/react) (Bonus if built in [Next.js](https://nextjs.org/))
 - The application has to be responsive and optimised for mobile
 - A documentation on how the application works and how to set up and build the project is provided
  
 ## Bonus points 
-- The application is built using [Next.js](https://nextjs.org/)
 - The pages are server-side rendered and are cached in the server
 - The animated loading indicator is done in CSS
 - The application style is built by one of the CSS preprocessors
